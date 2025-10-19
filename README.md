@@ -2,7 +2,8 @@
 About This Project
 
 This repository is a modified version of BookTutor AI
-originally developed by zenvanriel
+originally developed by @zenvanriel - https://github.com/AI-Engineer-Skool/booktutor-ai
+
 
 The original project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0),
 and this modified version remains under the same license.
