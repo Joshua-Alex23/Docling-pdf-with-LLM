@@ -125,7 +125,8 @@ def create_book_qa_system(pdf_path: str):
         model="local-model",
         openai_api_base="http://localhost:1234/v1",
         openai_api_key="not-needed",
-        temperature=0,
+        temperature=0.2, #changed from 0 to 0.2
+        request_timeout=120,
     )
 
     print("⛓️ Creating QA chain...")
