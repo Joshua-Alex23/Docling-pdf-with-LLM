@@ -1,10 +1,23 @@
 # BookTutor AI: Convert Any Book into an AI Tutor
+About This Project
+
+This repository is a modified version of BookTutor AI
+originally developed by zenvanriel
+
+The original project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0),
+and this modified version remains under the same license.
 
 ## How does it work?
+Transform any PDF book into an interactive AI tutor that can:
 
-**Highly recommended** See https://youtu.be/GTidrAiojbg for an explainer video!
+Answer questions about your material
 
-Transform any PDF book into an interactive AI tutor that can answer questions, explain concepts, and help you understand the material better. BookTutor uses advanced language models and RAG (Retrieval-Augmented Generation).
+Explain difficult concepts
+
+Help you learn efficiently using Retrieval-Augmented Generation (RAG) and local LLMs
+
+🎥 See the original explainer video here:
+https://youtu.be/GTidrAiojbg
 
 ## Prerequisites
 
@@ -32,3 +45,7 @@ The system will:
 2. Create a knowledge base (first run only)
 3. Save the processed data for faster future access
 4. Start an interactive tutoring session
+
+
+Original work by zenvanriel
+Modification © 2025 Joshua-Alex23 
